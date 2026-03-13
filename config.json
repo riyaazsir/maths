@@ -1,1 +1,11 @@
-{"adminUsername":"riyaazsir","adminPassword":"admin123","siteName":"Riyaaz Sir's Math Portal","siteTagline":"Your gateway to academic excellence!","githubUsername":"riyaazsir","repoName":"maths","footerText":"Made with ❤️ for Riyaaz Sir's Students","primaryColor":"#6366f1","secondaryColor":"#ec4899"}
+{
+  "adminUsername": "riyaazsir",
+  "adminPassword": "admin123",
+  "siteName": "Riyaaz Sir's Math Portal",
+  "siteTagline": "Your gateway to academic excellence!",
+  "githubUsername": "riyaazsir",
+  "repoName": "maths",
+  "footerText": "Made with ❤️ for Riyaaz Sir's Students",
+  "primaryColor": "#6366f1",
+  "secondaryColor": "#ec4899"
+}
